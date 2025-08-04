@@ -1,7 +1,7 @@
 # Plasmic workflow v3
 name: Sync, build and deploy Plasmic app
 
-on: [push, workflow_dispatch]
+on: [push, workflows]
   repository_dispatch:
     types: [plasmic]
 
