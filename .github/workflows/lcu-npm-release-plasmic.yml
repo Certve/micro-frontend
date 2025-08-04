@@ -1,4 +1,3 @@
-# Plasmic workflow v3
 name: LCU Sync, build and deploy Plasmic app
 
 on: [push, workflow_dispatch]
